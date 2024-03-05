@@ -1,3 +1,4 @@
+package mine;
 import java.util.Scanner;
 public class MatrixMulti {
     public static void main(String[] args) {
