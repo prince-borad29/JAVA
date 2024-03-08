@@ -1,3 +1,4 @@
+package mine;
 import java.util.Scanner;
 class fiborecursion{
     static int Fibo(int num){

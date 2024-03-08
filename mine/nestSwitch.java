@@ -1,3 +1,4 @@
+package mine;
 import java.util.Scanner;
 class nestSwitch{
     public static void main(String[] args){

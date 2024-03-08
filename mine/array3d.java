@@ -1,3 +1,4 @@
+package mine;
 import java.util.*;
 class array3d{
     public static void main(String[] args){

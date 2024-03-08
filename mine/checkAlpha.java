@@ -1,3 +1,4 @@
+package mine;
 import java.util.Scanner;
 class checkAlpha{
     public static void main(String[] args){

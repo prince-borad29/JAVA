@@ -1,3 +1,4 @@
+package mine;
 class SB_stringbuilder{
     public static void main(String[] args){
         StringBuilder sb = new StringBuilder();

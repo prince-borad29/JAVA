@@ -1,3 +1,4 @@
+package mine;
 import java.util.Scanner;
 class Fscan{
     public static void main(String[]  arg){

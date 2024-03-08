@@ -1,3 +1,4 @@
+package mine;
 public class String1 {
     public static void main(String[] args) {
         String s1= "ABCB" , s2 = "DEF" , s3 , s4;

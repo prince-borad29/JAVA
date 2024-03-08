@@ -1,3 +1,4 @@
+package mine;
 import java.util.Arrays;
 public class StringBex3 {
     public static void main(String[] args) {

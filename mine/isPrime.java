@@ -1,3 +1,4 @@
+package mine;
 public class isPrime implements snippet {
     public static void main(String[] args) {
         System.out.println(isPrimee(2));

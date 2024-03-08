@@ -1,3 +1,4 @@
+package mine;
 import java.util.Scanner;;
 public class PlanidromeString {
     public static void main(String[] args) {

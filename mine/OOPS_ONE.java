@@ -1,4 +1,5 @@
- class Pen {
+package mine;
+class Pen {
     String color;
     String brand;
     String type;

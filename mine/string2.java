@@ -1,3 +1,4 @@
+package mine;
 public class string2 {
     public static void main(String[] args) {
         String s1 =" P r i n c e ";

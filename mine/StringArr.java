@@ -1,3 +1,4 @@
+package mine;
 import java.util.*;
 public class StringArr {
     public static void main(String[] args) {

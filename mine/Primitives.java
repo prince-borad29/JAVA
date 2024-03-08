@@ -1,3 +1,4 @@
+package mine;
 class Primitive{
     public static void main(){
         // int rollno = 11;

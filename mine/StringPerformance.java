@@ -1,3 +1,4 @@
+package mine;
 class StringPerformance{
     public static void main(String[] args){
       String s1  = "";

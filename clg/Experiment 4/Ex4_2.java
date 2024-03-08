@@ -36,7 +36,6 @@ class employee{
 public class Ex4_2 {
     public static void main(String[] args) {
         employee e1 = new employee();
-        e1.empDet();
-       
+        e1.empDet();       
     }  
 }

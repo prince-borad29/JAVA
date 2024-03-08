@@ -1,3 +1,4 @@
+package mine;
 import java.util.Scanner;
 public class SCal {
     public static void main(String[] args) {

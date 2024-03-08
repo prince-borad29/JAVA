@@ -1,3 +1,4 @@
+package mine;
 public class enum1 {
     public enum Season{
         Winter,

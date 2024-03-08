@@ -1,3 +1,4 @@
+package mine;
 //import java.util.Scanner;
 public class Pattern1 {
     /* Step 1 : Num of rows = number of times outer for loop will run 

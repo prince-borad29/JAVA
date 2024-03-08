@@ -1,3 +1,4 @@
+package mine;
 import java.util.Scanner;
 class C2F{
     public static void main(String[] args){

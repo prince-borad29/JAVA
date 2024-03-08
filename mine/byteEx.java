@@ -1,3 +1,4 @@
+package mine;
 public class byteEx {
     public static void main(String[] args) {
         byte a[] = new byte[3];
