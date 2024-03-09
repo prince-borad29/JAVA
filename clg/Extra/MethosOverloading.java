@@ -1,5 +1,4 @@
-package NC;
-
+package clg.Extra;
 public class MethosOverloading {
     public static void main(String[] args) {
         
