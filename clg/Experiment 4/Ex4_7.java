@@ -63,6 +63,5 @@ public class Ex4_7 {
         System.out.println(employee1.highest(e));
     }  
 
-     
 }
 
