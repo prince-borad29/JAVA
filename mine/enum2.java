@@ -6,7 +6,7 @@ public class enum2 {
     public static void main(String[] args) {
         
         Month[] months = Month.values();
-        for (Month m : months) {
+        for (Month m : Month.values()) {
             System.out.println(m);
         }
         for (int i = 0; i < months.length; i++) {

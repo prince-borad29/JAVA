@@ -6,6 +6,7 @@ class SB_stringbuilder{
             char  ch = (char)(' '+i);
             //s1 = s1 + ch;//bad O(nsquare)
             //Instead use 
+            System.out.println(ch);
             sb.append(ch);//will add character to  sb variable
             /*
                 Many Methods 

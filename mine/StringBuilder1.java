@@ -8,8 +8,10 @@ public class StringBuilder1 {
         // String s = "Prince";
         // sb.append(s);
         for(int i =0;i<26;i++){
-            char ch1 = (char)('a'+i);
-            stb.append(ch1);
+            char ch1 = (char)('A'+i);
+            char ch2 = (char)('a'+i);
+            stb.append(ch1+" ");
+            stb.append(ch2+" ");
         } 
         System.out.println(stb.toString());
     }

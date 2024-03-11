@@ -1,4 +1,5 @@
 package mine;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class error {
@@ -79,10 +80,10 @@ public class error {
 
             {
 
-                System.out.println(p[i][j]);
+                System.out.print(p[i][j]+"\t");
 
             }
-
+            System.out.println();
         }
 
 

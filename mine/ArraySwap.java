@@ -4,6 +4,8 @@ import java.util.Arrays;
 public class ArraySwap {
     public static void main(String[] args) {
         int[] arr = {1,2,3,146,46,9,98};
+        Swap(arr, 0, 6);
+        System.out.println(Arrays.toString(arr));
         reverse(arr);
         System.out.println(Arrays.toString(arr));
     } 
