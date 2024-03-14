@@ -1,6 +1,8 @@
 class Vehicle{
 
-    void run(){}
+    void run(){
+        System.out.println("I am vehicle");
+    }
 
 }
 
@@ -13,7 +15,9 @@ class Bike extends Vehicle{
 
 public class EX5_2 {
     public static void main(String[] args) {
-        Bike b1 = new Bike();
+        Vehicle b1 = new Vehicle();
+        Vehicle v1 = new Bike();
         b1.run();
+        v1.run();
     }
 }

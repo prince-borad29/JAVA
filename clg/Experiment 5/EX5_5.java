@@ -6,7 +6,7 @@ class Student{
     static int Rollno,sem;
 
    static Scanner sc = new Scanner(System.in);
-    static void getName(){
+    static void setDetails(){
         // Student s = new Student();
         System.out.print("Enter Name : ");
         name =sc.nextLine();
@@ -27,6 +27,10 @@ class Student{
      
     }
 
+    void getName(){
+        System.out.println("Name : "+name);
+    }
+
     static void SetName(){
         System.out.print("Enter Name To Update : ");
         name =sc.nextLine();
@@ -45,7 +49,7 @@ class Student{
 public class EX5_5 {
     public static void main(String[] args) {
         // Student s1 = new Student();
-        Student.getName();
+        Student.setDetails();
         Student.ShowDetails();
         Student.SetName();
         Student.ShowDetails();

@@ -10,6 +10,6 @@ class This{
 public class EX5_7 {
     public static void main(String[] args) {
         This obj = new This("THIS");
-
+        obj.name="this";
     }
 }
