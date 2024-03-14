@@ -27,7 +27,7 @@ class Student{
      
     }
 
-    void getName(){
+    static void getName(){
         System.out.println("Name : "+name);
     }
 
@@ -50,8 +50,8 @@ public class EX5_5 {
     public static void main(String[] args) {
         // Student s1 = new Student();
         Student.setDetails();
-        Student.ShowDetails();
+        Student.getName();
         Student.SetName();
-        Student.ShowDetails();
+        Student.getName();
     }
 }
