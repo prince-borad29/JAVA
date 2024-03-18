@@ -5,6 +5,7 @@ public class EXCeption1 {
         try{
             int a;
              a = 100/0;
+             System.out.println(a);
         }
         catch(ArithmeticException e){
             System.out.println(e);
