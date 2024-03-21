@@ -14,8 +14,8 @@ public class Main {
         car.startMusic();
         // car.stopMusic();
         car.upgradeEngine(new ElectricEngine());
-        car.Stop();
         car.stopMusic();
+        car.Stop();
         car.Start();
         car.startMusic();
     }
